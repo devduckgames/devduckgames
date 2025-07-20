@@ -6,11 +6,11 @@ In the early morning, I'm a hobbyist game developer with three published games a
 
 I started the [DevDuck](youtube.com/devduck) YouTube channel in 2019 to help keep myself accountable to (finally) finish a game development project. Throughout the years I've continued to post development logs that follow my process building and releasing games as a hobby balanced alongside a full-time job.
 
-<p align="left" display="inline-block>
+<p align="left">
   <a href="https://www.youtube.com/c/devduck?sub_confirmation=1">
     <img alt="YouTube Subscribers" title="Subscribe on YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCKCTmact-90hXpV2ns8GSsA?style=for-the-badge"/>
   </a>
-  <a href="https://www.youtube.com/c/devduck" display="inline-block">
+  <a href="https://www.youtube.com/c/devduck">
     <img alt="YouTube Views" title="View on YouTube" src="https://img.shields.io/youtube/channel/views/UCKCTmact-90hXpV2ns8GSsA?style=for-the-badge"/>
   </a>
 </p>
